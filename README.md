@@ -1,8 +1,30 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/sTWg933Z)
 
 # <mark>TAREA #1</mark>
-##
-
-[Mapa mental](https://www.canva.com/design/DAGLxezkcyU/-E4vBS-0M73QTVSXwhEqTA/view?utm_content=DAGLxezkcyU&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+## RESPUESTA A LAS PREGUNTAS:
+    1
+    2   En pocas palabras el software funciona como un cerebro y el hardware funciona como un cuerpo, 
+        el software se encarga de enviarle las instrucciones necesarias al hardware para poderlo controlarlo y cumplir con determinada tarea, 
+        siguiendo con la analogia, a pesar de que el software/la mente desee correr una media maraton no va a poder si su hardware/cuerpo fisico 
+        no esta preparado para soportar tan alto grado de intensiad
+    3   Es capaz de interpretar y ejecutar las instrucciones de todos los componentes. Sus partes mas importantes son:
+          -Núcleo.
+          -Unidad de control.
+          -Unidad aritmética lógica.
+          -Unidad de coma flotante.
+          -Memoria caché. 
+          -Registros
+          -Controlador de memoria.
+          -Bus.
+          -Tarjeta grafica.
+    4   "La velocidad de reloj o velocidad de CPU de un dispositivo indica cuantos ciclos de procesamiento por segundo puede ejecutar una CPU 
+        teniendo en cuenta todas sus unidades de procesamiento (comúnmente llamados núcleos). En términos sencillos, la velocidad de CPU indica con 
+        qué rapidez se pueden procesar los datos y es uno de los indicadores clave de rendimiento de un dispositivo electrónico, ya sea un teléfono móvil,
+        una tablet, un ordenador portátil, un reloj inteligente... Básicamente, cualquier dispositivo que funcione con un circuito integrado". 
+        
+          
+    
+    
+ [Mapa mental](https://www.canva.com/design/DAGLxezkcyU/-E4vBS-0M73QTVSXwhEqTA/view?utm_content=DAGLxezkcyU&utm_campaign=designshare&utm_medium=link&utm_source=editor) 
 
 
