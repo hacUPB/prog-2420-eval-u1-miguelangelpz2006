@@ -2,7 +2,7 @@
 
 # <mark>TAREA #1</mark>
 ## RESPUESTA A LAS PREGUNTAS:
-    1
+    1   (ha sido resuelta en el mapa)
     2   En pocas palabras el software funciona como un cerebro y el hardware funciona como un cuerpo, 
         el software se encarga de enviarle las instrucciones necesarias al hardware para poderlo controlarlo y cumplir con determinada tarea, 
         siguiendo con la analogia, a pesar de que el software/la mente desee correr una media maraton no va a poder si su hardware/cuerpo fisico 
@@ -24,6 +24,7 @@
     5   El proceso de arranque Depende en gran medida del sistema operativo. Por ello adjuntare dos link en los que se mencionan a profunidad en algunos
         de los sistemas operativos mas usados: 
     6   No tenia ni idea sobre eL funcionamiento y la importancia de la CPU, gracias a esta actividad ahora lo se :)
+                                                             (los links y las fuentes estan en el mapa)
 [-LINK 1](https://www.ecured.cu/Proceso_de_Arranque_de_un_Ordenador) 
 [-LINK2](https://www.profesionalreview.com/2023/07/02/proceso-arranque-pc/)
 
