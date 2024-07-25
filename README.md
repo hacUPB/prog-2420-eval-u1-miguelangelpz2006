@@ -23,9 +23,10 @@
         una tablet, un ordenador portátil, un reloj inteligente... Básicamente, cualquier dispositivo que funcione con un circuito integrado". 
     5   El proceso de arranque Depende en gran medida del sistema operativo. Por ello adjuntare dos link en los que se mencionan a profunidad en algunos
         de los sistemas operativos mas usados: 
+    6   No tenia ni idea sobre eL funcionamiento y la importancia de la CPU, gracias a esta actividad ahora lo se :)
 [-LINK 1](https://www.ecured.cu/Proceso_de_Arranque_de_un_Ordenador) 
 [-LINK2](https://www.profesionalreview.com/2023/07/02/proceso-arranque-pc/)
-    6   No tenia ni idea sobre eL funcionamiento y la importancia de la CPU, gracias a esta actividad ahora lo se :)
+
     
     
  [Mapa mental](https://www.canva.com/design/DAGLxezkcyU/-E4vBS-0M73QTVSXwhEqTA/view?utm_content=DAGLxezkcyU&utm_campaign=designshare&utm_medium=link&utm_source=editor) 
