@@ -24,7 +24,7 @@
     5   El proceso de arranque Depende en gran medida del sistema operativo. Por ello adjuntare dos link en los que se mencionan a profunidad en algunos
         de los sistemas operativos mas usados: 
     6   No tenia ni idea sobre eL funcionamiento y la importancia de la CPU, gracias a esta actividad ahora lo se :)
-                                                             (los links y las fuentes estan en el mapa)
+                                            .....(los links y las fuentes estan en el mapa).....
 [-LINK 1](https://www.ecured.cu/Proceso_de_Arranque_de_un_Ordenador) 
 [-LINK2](https://www.profesionalreview.com/2023/07/02/proceso-arranque-pc/)
 
