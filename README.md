@@ -36,7 +36,7 @@
 
 
  # <mark>TAREA #2</mark>
-
+## <mark>En el sguente link se encuentra el diagrama de bloques: </mark>
 [:)](https://www.canva.com/design/DAGMYb6sYB4/aO0xZhjdx5joVSFmqdT1vA/edit?utm_content=DAGMYb6sYB4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 
